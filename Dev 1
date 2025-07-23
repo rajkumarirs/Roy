@@ -28,3 +28,22 @@ class Geeks
             System.out.println(" false");
     }
 }
+
+
+ if (isPrime(11))
+            System.out.println(" true");
+        else
+            System.out.println(" false");
+        if (isPrime(15))
+            System.out.println(" true");
+        else
+            System.out.println(" false")
+
+	     if (isPrime(11))
+            System.out.println(" true");
+        else
+            System.out.println(" false");
+        if (isPrime(15))
+            System.out.println(" true");
+        else
+            System.out.println(" false")
